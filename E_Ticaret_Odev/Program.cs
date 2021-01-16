@@ -159,7 +159,7 @@ namespace E_Ticaret_Odev
                 
             } 
 
-        static Customer Customer_Control(Customer [] customer)
+        static Customer Customer_Control(Customer [] customer)//TR: Girilen ID ve Şifreyi database'de kontrol eden fonksiyon. ENG: This function controls your id and password in database.
         {
             string id;
             string pw;
@@ -185,9 +185,9 @@ namespace E_Ticaret_Odev
                     }
                 }
             }
-        } //TR: Girilen ID ve Şifreyi database'de kontrol eden fonksiyon. ENG: This function controls your id and password in database.
+        } 
 
-        static double Product_Buy(Customer customer_id, Products[] product)
+        static double Product_Buy(Customer customer_id, Products[] product) //TR:Ürünün alınmasını sağlayan fonksiyon. ENG: You can buy a product with this function.
         {
             string product_buy;
             Console.WriteLine("Which product do you want to buy?");
@@ -261,7 +261,7 @@ namespace E_Ticaret_Odev
                     break;
             }
             return customer_id.Wallet;
-        } //TR:Ürünün alınmasını sağlayan fonksiyon. ENG: You can buy a product with this function.
+        }
         
     }
 

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 //Barışcan KURTKAYA
 //15.01.2020 C# 
@@ -44,7 +44,7 @@ namespace E_Ticaret_Odev
             
         }
 
-        static Customer[] Identify_Customer()  //TR:Müşteriyi tanımlayan fonksiyon. ENG: The function which is identifying customer.
+        static Customer[] Identify_Customer()//TR:Müşteriyi tanımlayan fonksiyon. ENG: The function which is identifying customer.
         {
             Customer customer1 = new Customer();
             customer1.Custommer_Name = "Baris99";
@@ -58,8 +58,8 @@ namespace E_Ticaret_Odev
 
             Customer[] customer = new Customer[] { customer1, customer2 };
             return customer;
-        }
-            
+        }  
+
         static Products[] Identify_Product() // TR: Ürünlerin kaydedildiği fonksiyon. ENG: The function which is saving products.
             {
                 Products product1 = new Products();  //TR: Desktop ürününü tanıtan kısım. ENG: identifying the desktop product.
@@ -175,15 +175,12 @@ namespace E_Ticaret_Odev
                     {
                         return correct_customer;
                     }
-                    else
-                    {
-                        Console.WriteLine("Wrong Id or Password! There is your Trial account");
-                        Customer customer3 = new Customer();
-                        customer3.Custommer_Name = "Trial account";
-                        customer3.Wallet = 15000;
-                        return customer3;
-                    }
                 }
+                Console.WriteLine("Wrong Id or Password! There is your Trial account");
+                Customer customer3 = new Customer();
+                customer3.Custommer_Name = "Trial account";
+                customer3.Wallet = 15000;
+                return customer3;
             }
         } 
 
@@ -261,7 +258,7 @@ namespace E_Ticaret_Odev
                     break;
             }
             return customer_id.Wallet;
-        }
+        } 
         
     }
 

@@ -1,0 +1,13 @@
+C:\Users\brscn\source\repos\Kodlama.io\Ders_2_Kodlamaio\E_Ticaret_Odev\bin\Debug\netcoreapp3.1\E_Ticaret_Odev.exe
+C:\Users\brscn\source\repos\Kodlama.io\Ders_2_Kodlamaio\E_Ticaret_Odev\bin\Debug\netcoreapp3.1\E_Ticaret_Odev.deps.json
+C:\Users\brscn\source\repos\Kodlama.io\Ders_2_Kodlamaio\E_Ticaret_Odev\bin\Debug\netcoreapp3.1\E_Ticaret_Odev.runtimeconfig.json
+C:\Users\brscn\source\repos\Kodlama.io\Ders_2_Kodlamaio\E_Ticaret_Odev\bin\Debug\netcoreapp3.1\E_Ticaret_Odev.runtimeconfig.dev.json
+C:\Users\brscn\source\repos\Kodlama.io\Ders_2_Kodlamaio\E_Ticaret_Odev\bin\Debug\netcoreapp3.1\E_Ticaret_Odev.dll
+C:\Users\brscn\source\repos\Kodlama.io\Ders_2_Kodlamaio\E_Ticaret_Odev\bin\Debug\netcoreapp3.1\E_Ticaret_Odev.pdb
+C:\Users\brscn\source\repos\Kodlama.io\Ders_2_Kodlamaio\E_Ticaret_Odev\obj\Debug\netcoreapp3.1\E_Ticaret_Odev.AssemblyInfoInputs.cache
+C:\Users\brscn\source\repos\Kodlama.io\Ders_2_Kodlamaio\E_Ticaret_Odev\obj\Debug\netcoreapp3.1\E_Ticaret_Odev.AssemblyInfo.cs
+C:\Users\brscn\source\repos\Kodlama.io\Ders_2_Kodlamaio\E_Ticaret_Odev\obj\Debug\netcoreapp3.1\E_Ticaret_Odev.csproj.CoreCompileInputs.cache
+C:\Users\brscn\source\repos\Kodlama.io\Ders_2_Kodlamaio\E_Ticaret_Odev\obj\Debug\netcoreapp3.1\E_Ticaret_Odev.dll
+C:\Users\brscn\source\repos\Kodlama.io\Ders_2_Kodlamaio\E_Ticaret_Odev\obj\Debug\netcoreapp3.1\E_Ticaret_Odev.pdb
+C:\Users\brscn\source\repos\Kodlama.io\Ders_2_Kodlamaio\E_Ticaret_Odev\obj\Debug\netcoreapp3.1\E_Ticaret_Odev.genruntimeconfig.cache
+C:\Users\brscn\source\repos\Kodlama.io\Ders_2_Kodlamaio\E_Ticaret_Odev\obj\Debug\netcoreapp3.1\E_Ticaret_Odev.csprojAssemblyReference.cache

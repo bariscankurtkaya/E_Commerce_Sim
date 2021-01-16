@@ -44,7 +44,7 @@ namespace E_Ticaret_Odev
             
         }
 
-        static Customer[] Identify_Customer()
+        static Customer[] Identify_Customer()  //TR:Müşteriyi tanımlayan fonksiyon. ENG: The function which is identifying customer.
         {
             Customer customer1 = new Customer();
             customer1.Custommer_Name = "Baris99";
